@@ -1,1 +1,2 @@
-## Yo soy Jorge Leonardo Mendoza Hernández
+## Yo soy Jorge Leonardo Mendoza Hernández buenas
+Yo aprendí a usar la interfaz de github, github desktop, y github en vs code. A usar branches y no meter todo a main a lo loco y a usar todo correctamente
