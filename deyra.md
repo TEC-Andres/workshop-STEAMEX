@@ -1,1 +1,2 @@
 # Hola yo soy deyra
+Soy una persona que le gusta mucho la musica y el baile, me gusta mucho salir con mis amigos y pasar tiempo con mi familia. Me gusta mucho la comida mexicana y me encanta viajar a nuevos lugares. Soy una persona muy sociable y me gusta conocer gente nueva. Me gusta mucho el arte y la cultura, y siempre estoy buscando nuevas experiencias para aprender y crecer como persona.
